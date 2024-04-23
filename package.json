@@ -1,0 +1,21 @@
+{
+  "name": "primeira-lib-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node ./src/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrofaleirosss/primeira-biblioteca-node.git"
+  },
+  "keywords": [],
+  "author": "Pedro Faleiros",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "5.0.1"
+  }
+}
